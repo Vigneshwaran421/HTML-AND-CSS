@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-color: black;
+    color:white;
+}
+    h1{
+        display:inline;
+    }
+    li{
+        display:inline;
+        color: gray;
+        cursor:pointer;
+    }
+    li:hover{
+        color:white;
+        
+    }
+    ul{
+        display:inline;
+        padding-left: 75%;
+    }
+    nav{
+        padding:20px
+    }
+
+.searchbar{
+    padding:50px;
+    text-align: center;
+}
+    input
+    {
+        padding:25px;
+        width:75%;
+    }
+
+.products
+{
+    text-align: center;
+}
+    .box1
+    {
+        border-width: 2px;
+        border-style: solid;
+        border-color: black;
+        width:250px;
+        display:inline-block;
+    }
+    .box2
+    {
+        border-width: 2px;
+        border-style: solid;
+        border-color: black;
+        width:250px;
+        display:inline-block;
+        
+    
+    }
+    .box3
+    {
+        border-width: 2px;
+        border-style: solid;
+        border-color: black;
+        width:250px;
+        display:inline-block;
+      
+    }
+    .box1:hover
+    {
+        background-color: black;
+        color:white;
+    }
+    .box2:hover
+    {
+        background-color: black;
+        color:white;
+    }
+    .box3:hover
+    {
+         background-color: black;
+         color:white;
+    }
+.Aboutus
+{
+    text-align: center;
+}
+.Contact
+{
+      text-align: center;
+      background-color: black;
+      color:white;
+      
+}
+
